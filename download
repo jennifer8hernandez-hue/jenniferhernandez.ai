@@ -1,0 +1,30 @@
+IMAGES FOLDER — READ ME FIRST
+==============================
+
+Place your photos in this folder before deploying.
+
+Required image files:
+---------------------
+
+1. jennifer-hero.jpg
+   → Your main headshot used in the hero section (right side)
+   → Best size: 800px wide × 1000px tall (portrait orientation)
+   → Will be displayed full-height on desktop
+
+2. jennifer-about.jpg
+   → Photo used in the About section
+   → Best size: 600px wide × 750px tall (portrait orientation)
+   → Can be same photo as hero or a different one
+
+Tips:
+-----
+- Use high-resolution photos (at least 72dpi, ideally 150dpi+)
+- Compress images before uploading to keep the site fast
+  → Free tool: https://squoosh.app or https://tinypng.com
+- JPG format recommended for photos
+- Keep file names exactly as listed above (lowercase, no spaces)
+
+Optional additional images to add later:
+-----------------------------------------
+- og-image.jpg (1200×630px) for social sharing previews
+- favicon.ico or favicon.png for browser tab icon
